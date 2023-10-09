@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0;text-align: none;}
+.top{width: 100%;height: 40px;display: flex;float: left;justify-content: center;align-items: center;background-color: rgb(58, 58, 58);}
+.top p{font-family: 'Raleway', sans-serif;color: #fff;}
+.conteudo-center{width: 100%;background-color: rgba(74, 4, 90, 0.502);height: 500px;float: left;display: flex;justify-content: center;}
+.caixa-texto{width: 60%;border-radius: 23px;background-color: #0000002f;height: fit-content;display: flex;align-items: center;justify-content: center;margin: 40px 0 0 0;flex-direction: column;}
+.txt-1{width: 60%;text-align: justify;font-family: 'Work Sans';color: #fff;font-size: 13px;margin: 15px 0 15px 0;}
+.click{width: 60%;border-radius: 14px;text-align: center;background-color: black;margin: 10px 0;font-family: 'Work Sans';color: #fff;font-size: 13px;padding: 10px 10px;}
+.texto-2{display: none;}
+.texto-3{display: none;}
+.img{width: 100px;height: 100px;background: url(beijo.jpg)no-repeat center;background-size: cover;margin: 25px 0 0 0;}
+.img-2{width: 100px;height: 100px;background: url(coracao.jpg)no-repeat center;background-size: cover;margin: 25px 0 0 0;}
