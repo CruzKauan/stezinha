@@ -1,7 +1,7 @@
 *{margin: 0;padding: 0;text-align: none;}
 .top{width: 100%;height: 40px;display: flex;float: left;justify-content: center;align-items: center;background-color: rgb(58, 58, 58);}
 .top p{font-family: 'Raleway', sans-serif;color: #fff;}
-.conteudo-center{width: 100%;background-color: rgba(74, 4, 90, 0.502);height: fit-content;float: left;display: flex;justify-content: center;flex-direction: column;align-items: center;}
+.conteudo-center{width: 100%;background-color: rgba(74, 4, 90, 0.502);min-height: 500px;height: fit-content;float: left;display: flex;justify-content: center;flex-direction: column;align-items: center;}
 .caixa-texto{width: 60%;border-radius: 23px;background-color: #0000002f;height: fit-content;display: flex;align-items: center;justify-content: center;margin: 40px 0 0 0;flex-direction: column;}
 .txt-1{width: 60%;text-align: justify;font-family: 'Work Sans';color: #fff;font-size: 13px;margin: 15px 0 15px 0;}
 .click{width: 60%;border-radius: 14px;text-align: center;background-color: black;margin: 10px 0;font-family: 'Work Sans';color: #fff;font-size: 13px;padding: 10px 10px;}
